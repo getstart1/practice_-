@@ -1,3 +1,4 @@
+#将一个数字分解成质数的乘积
 import sys
 from math import sqrt, floor
 

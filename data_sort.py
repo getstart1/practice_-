@@ -1,3 +1,5 @@
+#合并相同key的表
+#link: https://www.nowcoder.com/practice/de044e89123f4a7482bd2b214a685201?tpId=37&tqId=21231&rp=0&ru=/ta/huawei&qru=/ta/huawei/question-ranking
 import sys
 while True:
     try:

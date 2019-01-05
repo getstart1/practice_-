@@ -1,3 +1,4 @@
+#convert 16进制到10进制
 while True:
     try:
         n=raw_input()
